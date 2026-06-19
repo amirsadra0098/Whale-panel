@@ -15,7 +15,7 @@ dependencies = [
     "Dependencies",
     "psutil",
     "PyJWT==2.10.1",
-    "python-dotenv==1.1.0",
+    "python-dotenv==1.2.2",
     "passlib[bcrypt]",
     "python-jose[cryptography]",
     "bcrypt",
